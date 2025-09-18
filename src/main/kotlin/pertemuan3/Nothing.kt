@@ -1,4 +1,5 @@
-package pertemuan3fun fail(message : String): Nothing{
+package pertemuan3
+fun fail(message : String): Nothing{
     throw IllegalArgumentException(message)
 }
 
