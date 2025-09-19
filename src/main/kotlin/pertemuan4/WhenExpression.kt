@@ -20,7 +20,7 @@ fun main () {
         finalExam == 'C' -> println("Ya Bisa lulus")
         else -> println("Tidak Lulus")
     }
-    var tesKriuk = 5
+    var tesKriuk = 6
 
     when  {
         tesKriuk > 2 -> tesKriuk = 20
