@@ -1,4 +1,4 @@
-package pertemuan6
+package pertemuan7
 
 fun prosesArrayGeneric() {
     val jumlahData = 1_000_000

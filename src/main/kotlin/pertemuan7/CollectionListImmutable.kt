@@ -1,4 +1,4 @@
-package pertemuan6
+package pertemuan7
 
 fun main() {
     val mataKuliahWajib : List<String> = listOf(

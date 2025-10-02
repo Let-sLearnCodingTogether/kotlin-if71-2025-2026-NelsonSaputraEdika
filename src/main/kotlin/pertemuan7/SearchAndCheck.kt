@@ -1,4 +1,4 @@
-package pertemuan6
+package pertemuan7
 
 fun main() {
     val ages : Array<Int> = arrayOf(25, 30, 40, 50)
